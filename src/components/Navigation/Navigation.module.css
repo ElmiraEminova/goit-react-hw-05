@@ -1,0 +1,14 @@
+.nav {
+  display: flex;
+  gap: 10px;
+  padding: 15px;
+  color: black;
+}
+
+.link {
+  color: black;
+}
+
+.active {
+  color: brown;
+}
